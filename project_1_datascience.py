@@ -217,14 +217,3 @@ from sklearn.preprocessing import OneHotEncoder
 
 
 """Day 6"""  """Visualization using EDA"""
-<<<<<<< Updated upstream
-=======
-import matplotlib.pyplot as plt
-
-x = [1,2,3,4,5]
-y = [2,4,6,5,10]
-
-"""this will connect the all the point and show it as line plot"""
-plt.plot(x,y)
-plt.show()
->>>>>>> Stashed changes
